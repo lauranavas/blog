@@ -1,5 +1,5 @@
 ---
-title: 'Protege tu influencia digital y tus negocios en linea'
+title: 'Protege tu influencia digital y tus negocios en línea'
 date: '2021-02-10'
 ---
 

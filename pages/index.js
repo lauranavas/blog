@@ -25,7 +25,7 @@ export default function Home({ allPostsData }) {
         <p>
           As a proud member of the World Scout Movement, teamwork, leadership and volunteering are close to my heart.
           They serve as the driving forces behind my work, as I strive to contribute to making our world a better place.
-          Remembering the wise words of Baden Powell, "Leave this world a little better than you found it," I aim to
+          Remembering the wise words of Baden Powell, "Leave this world a little better than you found it " I aim to
           embody these ideals in all that I do.
         </p>
         <p>
